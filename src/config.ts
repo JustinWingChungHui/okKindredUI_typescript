@@ -36,7 +36,7 @@ export const configs = {
     MapboxTileAPi: 'https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token={token}',
 
     // JS tokens
-    MapboxToken: 'pk.eyJ1Ijoib2traW5kcmVkIiwiYSI6Ild2MnY5dDQifQ.EHr6blIYPYeg4bWmSStT-g',
+    MapboxToken: 'pk.eyJ1Ijoib2traW5kcmVkIiwiYSI6ImNtb3g1NGd5djA0emkycnF4eDd4cDhsMnAifQ._Rhktj72L4ic2hBpaWpHHQ',
 
     // App config
     MinPasswordLength: 8,
